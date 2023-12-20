@@ -1,4 +1,4 @@
-# Neural-Human-Radiance-Field-from-a-Single-Video-ECCV-2024-
+# Neural Human Radiance Field from a Single Video ECCV 2024
 This repository is a reference implementation for NeuMan. NeuMan reconstructs both the background scene and an animatable human from a single video using neural radiance fields.
 
 [Paper]
